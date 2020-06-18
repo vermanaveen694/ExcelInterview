@@ -1,0 +1,14 @@
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\bin\Debug\netcoreapp2.1\InterviewExcel.deps.json
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\bin\Debug\netcoreapp2.1\InterviewExcel.runtimeconfig.json
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\bin\Debug\netcoreapp2.1\InterviewExcel.runtimeconfig.dev.json
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\bin\Debug\netcoreapp2.1\InterviewExcel.dll
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.csproj.CoreCompileInputs.cache
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.RazorAssemblyInfo.cache
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.RazorAssemblyInfo.cs
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.AssemblyInfoInputs.cache
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.AssemblyInfo.cs
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.RazorTargetAssemblyInfo.cache
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\bin\Debug\netcoreapp2.1\InterviewExcel.pdb
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.dll
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.pdb
+C:\Users\w.8\Desktop\InterViewTest\InterviewExcel\obj\Debug\netcoreapp2.1\InterviewExcel.csprojAssemblyReference.cache
